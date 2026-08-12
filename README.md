@@ -35,4 +35,4 @@ O sistema deseje permitir que o usuário organize sua coleção pessoal filmes d
 
 **RNF03** :O sistema deve funcionar de forma rápida, principalmente na hora de abrir a coleção, cadastrar um filme ou editar alguma informação.
 
-**RNF04**:O sistema deve ter uma aparência organizada e agradável, mostrando as capas dos filmes de uma forma parecida com uma estante ou galeria.
+**RNF04**:O sistema deve ter uma aparência organizada e bonita, mostrando as capas dos filmes de uma forma parecida com uma estante ou galeria.
