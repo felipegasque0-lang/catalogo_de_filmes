@@ -11,6 +11,7 @@ O sistema deseje permitir que o usuário organize sua coleção pessoal filmes d
 **RF01**: O sistema deve gerenciar o cadastro de seus usuários, as informações levantadas são:
 
  - usuário
+ - email
  - senha
  
 **RF02**: O sistema deve permitir que o usuario possa cadastrar filmes novos, as informações levantadas são:
