@@ -53,7 +53,7 @@ O sistema deseje permitir que o usuário organize sua coleção pessoal filmes d
 
 ![](Documentos/Remover%20filme.jpg)
 
-**Modelo Fisico**
+**Modelo do site**
 
 ![](Documentos/Tela%20de%20login.drawio.png)
 
