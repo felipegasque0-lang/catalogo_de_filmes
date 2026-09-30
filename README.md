@@ -38,3 +38,28 @@ O sistema deseje permitir que o usuário organize sua coleção pessoal filmes d
 **RNF03** :O sistema deve funcionar de forma rápida, principalmente na hora de abrir a coleção, cadastrar um filme ou editar alguma informação.
 
 **RNF04**:O sistema deve ter uma aparência organizada e bonita, mostrando as capas dos filmes de uma forma parecida com uma estante ou galeria.
+
+**Modelo DrawDb**
+![](Documentos/DrawDb.jpeg)
+
+
+**FLuxograma**
+![](Documentos/Tela%20de%20Login.jpg)
+
+![](Documentos/Cadastrar%20filme.jpg)
+
+![](Documentos/Editar%20Filme.jpg)
+
+![](Documentos/Remover%20filme.jpg)
+
+**Modelo Fisico**
+![](Documentos/Tela%20de%20login.drawio.png)
+
+![](Documentos/Tela%20de%20Editar.drawio.png)
+
+![](Documentos/Tela%20de%20Editar.drawio.png)
+
+![](Documentos/Tela%20de%20Remover.drawio.png)
+
+**Modelo Conceitual**
+![](Documentos/Conceptual%20model%20-%20BRMW.pdf)
